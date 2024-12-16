@@ -9,7 +9,7 @@ export function Header() {
           <Feather size={32} className="text-white" />
         </div>
         <h1 className="text-3xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-          StyleScribe
+          CopyCat
         </h1>
       </div>
       <div className="space-y-2">
